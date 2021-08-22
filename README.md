@@ -1,0 +1,2 @@
+# Logistics-via-Double-Latch-Gate-Coil
+Package Shipping can be done via warehouses with double latch gate coils (running gates) which create interstate / interregional connections. For simple transportation to custom locations, two trucks with matching double latch gate coils can be sent to a pickup and dropoff/delivery point. The transportation of cargo can exist through the gates, without road transportation of cargo.
